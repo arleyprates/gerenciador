@@ -12,3 +12,17 @@ Packages additional:
 ``samba``
 ``php``
 ``mysql``
+
+Primeiro passo é instalar o Virtualbox. 
+
+Pelo Virtualbox é preciso importar a Máquina Virtual CentOS
+
+Start a VM
+
+Entre com user e password
+
+Verifique o endereço IP da interface eth0 na VM
+
+Edite seu arquivo hosts mapeando o endereco IP para nome de um domínio
+
+Entre no broswer e digite o nome do domínio
