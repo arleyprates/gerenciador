@@ -31,4 +31,4 @@ Na sua máquina edite o arquivo hosts mapeando o endereco IP para nome de um dom
 
 Entre no broswer e digite o nome do domínio
 
-``http://gerenciador.de``
+``http://gerenciador.dev``
