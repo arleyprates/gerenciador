@@ -27,7 +27,7 @@ Verifique o endereço IP da interface eth0 na VM
 
 Na sua máquina edite o arquivo hosts mapeando o endereco IP para nome de um domínio
 
-``1792.168.0.10 gerenciador.dev``
+``172.168.0.10 gerenciador.dev``
 
 Entre no broswer e digite o nome do domínio
 
